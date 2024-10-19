@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="Any.cpp" />
     <ClCompile Include="FixedFlatMap.cpp" />
+    <ClCompile Include="FixedMapedRelationDBs.cpp" />
     <ClCompile Include="FixedVector.cpp" />
     <ClCompile Include="MemoryAllocator.cpp" />
     <ClCompile Include="ReletionDB.cpp" />
@@ -138,6 +139,7 @@
   <ItemGroup>
     <ClInclude Include="Any.h" />
     <ClInclude Include="FixedFlatMap.h" />
+    <ClInclude Include="FixedMapedRelationDBs.h" />
     <ClInclude Include="FixedVector.h" />
     <ClInclude Include="FixVector.h" />
     <ClInclude Include="MemoryAllocator.h" />
